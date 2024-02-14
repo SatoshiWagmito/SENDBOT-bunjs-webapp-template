@@ -23,7 +23,7 @@ bun add packagename
 
 local dev:
 ```shell
-bun run app.ts
+bun dev
 ```
 
 prod:
